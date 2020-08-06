@@ -1,0 +1,10 @@
+C:\Users\freak\source\repos\Glass_Shield\Glass_Shield\bin\Debug\Glass_Shield.exe.config
+C:\Users\freak\source\repos\Glass_Shield\Glass_Shield\bin\Debug\Glass_Shield.exe
+C:\Users\freak\source\repos\Glass_Shield\Glass_Shield\bin\Debug\Glass_Shield.pdb
+C:\Users\freak\source\repos\Glass_Shield\Glass_Shield\obj\Debug\Glass_Shield.csprojAssemblyReference.cache
+C:\Users\freak\source\repos\Glass_Shield\Glass_Shield\obj\Debug\Glass_Shield.Properties.Resources.resources
+C:\Users\freak\source\repos\Glass_Shield\Glass_Shield\obj\Debug\Glass_Shield.csproj.GenerateResource.cache
+C:\Users\freak\source\repos\Glass_Shield\Glass_Shield\obj\Debug\Glass_Shield.csproj.CoreCompileInputs.cache
+C:\Users\freak\source\repos\Glass_Shield\Glass_Shield\obj\Debug\Glass_Shield.exe
+C:\Users\freak\source\repos\Glass_Shield\Glass_Shield\obj\Debug\Glass_Shield.pdb
+C:\Users\freak\source\repos\Glass_Shield\Glass_Shield\obj\Debug\Glass_Shield.Glass_Plane.resources

@@ -1,0 +1,3 @@
+This simple program creates a blank window at the transparency of your choice.
+
+It's uses are whatever you see fit. I personally use it as a stream window lock or blocker (when at 100% opacity).
